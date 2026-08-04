@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gnanasreeb123/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/gnanasreeb123/leetcode/tree/master/0088-merge-sorted-array) |
+| [3731-find-missing-elements](https://github.com/gnanasreeb123/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,10 +19,12 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gnanasreeb123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/gnanasreeb123/leetcode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/gnanasreeb123/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gnanasreeb123/leetcode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/gnanasreeb123/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
